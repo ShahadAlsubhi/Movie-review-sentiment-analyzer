@@ -1,1 +1,2 @@
 # Movie-review-sentiment-analyzer: This tool analyzes the text and it assigns a sentiment analysis that is categorized into three types, Positive, Negative and neutral.
+Users will write their review in the input field and then the user will be promoted to pick the number of n-grams. After that, all the calculations that were made for assignment will be written in the output. Polarity percentage will be for the review as a whole while Keyword Polarity will be specific to the n-gram. Additionally, for each keyword of the n-gram will have its own sentiment assigned. 
